@@ -7,4 +7,5 @@ server:
   port: 8080
 test:
   data: This is a test
-  list: This, is , a, list
+  list: 
+    values: This, is, a, list
